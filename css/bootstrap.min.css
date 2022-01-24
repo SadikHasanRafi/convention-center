@@ -5927,7 +5927,7 @@ fieldset:disabled .btn {
 }
 
 .toast:not(.showing):not(.show) {
-    opacity: 50;
+    opacity: 0;
 }
 
 .toast.hide {
