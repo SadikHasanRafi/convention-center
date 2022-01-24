@@ -1,0 +1,22 @@
+/* Custom Colors */
+.bg-custom{
+    background-color: #3F87F5;
+}
+.text-custom{
+    color: #3F87F5;
+}
+.bg-custom-light-blue{
+    background-color: #96d9f446;
+}
+.bg-custom-blue-smoke{
+    background-color: #3f88f510;
+}
+.custom-radius{
+    border-radius: 30px;
+}
+.shadow-custom{
+    box-shadow: 0px 80px 70px -45px #3f88f5de;
+}
+.section-margin{
+    margin-bottom: 180px;
+}
